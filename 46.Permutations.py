@@ -24,5 +24,3 @@ class Solution(object):
             ret.append(copy.deepcopy(temp))
         return ret
 
-
-print Solution().permute([1, 1, 3])

@@ -66,5 +66,3 @@ class Solution(object):
         elif 'I' in s:
             ret += 1
         return ret
-
-print Solution().romanToInt('DCXXI')

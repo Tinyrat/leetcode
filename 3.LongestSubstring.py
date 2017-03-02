@@ -25,4 +25,3 @@ class Solution(object):
         return ret
 
 
-print Solution().lengthOfLongestSubstring('pwwkew')

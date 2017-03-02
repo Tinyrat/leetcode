@@ -21,6 +21,3 @@ class Solution(object):
             return left + 1
         else:
             return left
-
-
-print Solution().searchInsert([1, 3, 5, 6], 0)

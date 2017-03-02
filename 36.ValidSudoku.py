@@ -42,5 +42,3 @@ class Solution(object):
                     else:
                         gong[gongNum][num] = True
         return True
-
-print Solution().isValidSudoku([".87654321","2........","3........","4........","5........","6........","7........","8........","9........"])

@@ -15,5 +15,3 @@ class Solution(object):
                 return i
         return len(appear)
 
-
-print Solution().firstMissingPositive([-5,1000])

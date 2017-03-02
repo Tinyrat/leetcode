@@ -40,6 +40,3 @@ class Solution(object):
             return int(MIN_INT)
         else:
             return sum
-
-
-print Solution().myAtoi('-1 23')

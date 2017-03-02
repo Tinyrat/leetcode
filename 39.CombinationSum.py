@@ -19,6 +19,3 @@ class Solution(object):
                         if add not in ret[num+i]:
                             ret[num + i].append(add)
         return ret[target]
-
-
-print Solution().combinationSum([2, 3, 6, 7], 7)

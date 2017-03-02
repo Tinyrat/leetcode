@@ -10,5 +10,3 @@ class Solution(object):
         for i in range(length):
             for j in range(length):
                 matrix[j][length - i - 1] = rotMat[i][j]
-
-print Solution().rotate([[1,2],[3,4]])

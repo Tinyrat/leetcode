@@ -34,5 +34,3 @@ class Solution(object):
                 ret.append(i)
         return ret
 
-
-print Solution().findSubstring("wordgoodgoodgoodbestword", ["word", "good", "best", "good"])

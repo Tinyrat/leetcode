@@ -27,5 +27,3 @@ class Solution(object):
                     ret = s[i - j + 1:i + 1 + j]
         return ret
 
-
-print Solution().longestPalindrome('cbbd')

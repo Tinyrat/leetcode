@@ -31,4 +31,3 @@ class Solution(object):
         return nums
 
 
-print Solution().nextPermutation([1,3,1,3,3])

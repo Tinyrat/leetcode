@@ -23,6 +23,3 @@ class Solution(object):
         for i in range(last, -1, -1):
             retString = retString + str(ret[i])
         return retString
-
-
-print Solution().multiply('98', '9')

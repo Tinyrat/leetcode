@@ -40,6 +40,3 @@ class Solution(object):
                     ret.append(tempStr)
                     temp = tempStr
                     break
-
-
-print Solution().generateParenthesis(3)

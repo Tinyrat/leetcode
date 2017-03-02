@@ -16,5 +16,3 @@ class Solution(object):
             if flag == 1:
                 break
         return counts
-
-print Solution().twoSum([1,2,3],5)

@@ -12,6 +12,3 @@ class Solution(object):
             return 0
         else:
             return revx * cmp(x, 0)
-
-
-print Solution().reverse(-123)

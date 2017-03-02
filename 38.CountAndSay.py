@@ -22,5 +22,3 @@ class Solution(object):
             s = ret
         return ret
 
-
-print Solution().countAndSay(5)

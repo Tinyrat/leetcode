@@ -28,6 +28,3 @@ class Solution(object):
                         while nums[q] == nums[q + 1] and p < q:
                             q -= 1
         return ret
-
-
-print Solution().fourSum([0, 1, 5, 0, 1, 5, 5, -4], 11)

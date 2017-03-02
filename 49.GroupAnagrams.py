@@ -15,6 +15,3 @@ class Solution(object):
         for key in standard:
             ret.append(sorted(standard[key]))
         return ret
-
-
-print Solution().groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])

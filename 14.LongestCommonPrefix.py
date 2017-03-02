@@ -25,5 +25,3 @@ class Solution(object):
                 s += char
         return s
 
-
-print Solution().longestCommonPrefix(['aa', 'a'])

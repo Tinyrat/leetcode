@@ -31,5 +31,3 @@ class Solution(object):
             return True
         return False
 
-
-print Solution().isMatch('aa', '*')

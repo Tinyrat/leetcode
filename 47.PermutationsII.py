@@ -23,6 +23,3 @@ class Solution(object):
             temp = temp[:k + 1] + sorted(temp[k + 1:])
             ret.append(copy.deepcopy(temp))
         return ret
-
-
-print Solution().permuteUnique([1, 1, 3])

@@ -13,6 +13,3 @@ class Solution(object):
             return x * self.myPow(x * x, n / 2)
         else:
             return self.myPow(x * x, n / 2)
-
-
-print Solution().myPow(2.1, 8)

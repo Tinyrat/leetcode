@@ -21,5 +21,3 @@ class Solution(object):
                 break
         return i + 1
 
-
-print Solution().removeDuplicates([1, 2, 3])

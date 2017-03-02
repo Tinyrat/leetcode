@@ -24,5 +24,3 @@ class Solution(object):
                 count[k] = 0
         return ret
 
-
-print Solution().letterCombinations('23')

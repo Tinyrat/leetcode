@@ -26,4 +26,3 @@ class Solution(object):
         return -1
 
 
-print Solution().strStr('', '')

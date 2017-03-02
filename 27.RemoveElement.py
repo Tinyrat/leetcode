@@ -19,4 +19,3 @@ class Solution(object):
         return i
 
 
-print Solution().removeElement([3, 2, 2, 3], 3)

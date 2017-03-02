@@ -33,5 +33,3 @@ class Solution(object):
         else:
             return nums3[len(nums3) - 1]
 
-
-print Solution().findMedianSortedArrays([], [1])

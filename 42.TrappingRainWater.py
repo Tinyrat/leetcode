@@ -38,6 +38,3 @@ class Solution(object):
                 j = height[last]
             last -= 1
         return ret
-
-
-print Solution().trap([])
